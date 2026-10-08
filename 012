@@ -1,0 +1,4 @@
+nome=input('qual nome do aluno?')
+p1=int(input('primeira média do aluno?'))
+p2=int(input('segunda nota do aluno'))
+print(f'a média entre de {nome} é: {(p1+p2)/2}')

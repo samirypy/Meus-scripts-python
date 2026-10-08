@@ -1,0 +1,8 @@
+y=input('Digite algo :3 :')
+print('Possui números?',y.isnumeric())
+print('Possui letras?',y.isalpha())
+print('Possui letras ou números ou ambos?',y.isalnum())
+print('Esta maiusculo?',y.isupper())
+print('Esta em minusculo?',y.islower())
+print('É espaço?',y.isspace())
+print('O tipo primitivo desse valor é',type(y)) 

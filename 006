@@ -1,0 +1,3 @@
+nome=input(' Olá, qual seu nome?')
+coisa=input(f'Olá {nome} o que vamos exercitar hoje?')
+print(f'{coisa}?, ah que legal! Então vamos lá! :p')

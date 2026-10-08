@@ -1,0 +1,4 @@
+medida=float(input('digite um número que deseje converter:'))
+cm=medida*100
+mm=medida*1000
+print(f'o resultado em cm de {medida} é {cm}, e o resultado em mm é {mm}')

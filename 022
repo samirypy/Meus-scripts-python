@@ -1,0 +1,5 @@
+import math
+n=float(input('Digite um número?'))
+raiz=math.trunc(n)
+print(f'A porção inteira desse número é {raiz}')
+              

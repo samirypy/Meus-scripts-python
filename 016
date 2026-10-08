@@ -1,0 +1,2 @@
+q=float(input('Quanto dinheiro você tem? R$'))
+print(f'Com R${q} reais você pode comprar U${q/5.22:.2f}')

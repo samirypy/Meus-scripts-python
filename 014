@@ -1,0 +1,2 @@
+n=float(input('Digite o valor em metros que deseja converter:'))
+print(f' em quilômetros:{n/1000}km\n em hectômetro:{n/100}hm\n em decâmetro:{n/10}dam\n em decímetro:{n*10}dm\n em centímetro:{n*100}cm\n em milímetro:{n*1000}mm')

@@ -1,0 +1,5 @@
+import math
+cp=float(input('Qual o comprimento do cateto oposto?'))
+ca=float(input('Qual o comprimento do cateto adjecente?'))
+r= math.hypot(cp,ca)
+print(f'A hipotenusa é {r:.2f}')

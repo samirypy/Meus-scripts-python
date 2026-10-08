@@ -1,0 +1,2 @@
+t=float(input('Qual a temperatura em °C?'))
+print(f'Essa temperatura em fahrenheit corresponde a {9*t/5+32}°F')
