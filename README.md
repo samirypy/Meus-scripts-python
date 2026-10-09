@@ -1,4 +1,4 @@
-# 👾 Meus scripts em python.
+# 👾 Meus-scripts-python
 Bem vindo ao meu laboratório de estudos!
 Aqui eu guardo meus primeiros scripts desenvolvidos em Python, focados em dominar a lógica de programação.
 
